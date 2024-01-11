@@ -1,7 +1,6 @@
 # Getting Started with Talkie
 
 # This project was made from scratch during Picsart Hack Day within 8 hours !
-# Also you can find many interesting stuff on my github page, check it here [@surenpoghosan](https://github.com/surenpoghosian)
 `This is only front end of Talkie, you need also to setup the backend, see details here ->` [talkieBackend](https://github.com/surenpoghosian/talkieBackend)
 
 ### **1.** `git clone https://github.com/surenpoghosian/TalkieFrontEnd`
